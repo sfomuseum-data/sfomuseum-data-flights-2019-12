@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123175014",
-        "swim:gufi":""
+        "swim:flight_ref":"123175014"
     },
     "wof:country":"US",
     "wof:created":1577808213,
@@ -98,7 +97,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1578942664,
+    "wof:lastmodified":1579302031,
     "wof:name":"UA405 (SFO-IAH)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

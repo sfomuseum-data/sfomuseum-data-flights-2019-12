@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123085983",
-        "swim:gufi":""
+        "swim:flight_ref":"123085983"
     },
     "wof:country":"US",
     "wof:created":1577721767,
@@ -101,7 +100,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578942464,
+    "wof:lastmodified":1579302002,
     "wof:name":"UA1298 (SNA-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

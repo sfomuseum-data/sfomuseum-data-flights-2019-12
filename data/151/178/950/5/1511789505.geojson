@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123246272",
-        "swim:gufi":""
+        "swim:flight_ref":"123246272"
     },
     "wof:country":"US",
     "wof:created":1577894590,
@@ -102,7 +101,7 @@
         1477930485,
         1159289993
     ],
-    "wof:lastmodified":1578942630,
+    "wof:lastmodified":1579302026,
     "wof:name":"SQ1 (SFO-HKG)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

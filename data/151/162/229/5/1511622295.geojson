@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121838011",
-        "swim:gufi":""
+        "swim:flight_ref":"121838011"
     },
     "wof:country":"US",
     "wof:created":1576339366,
@@ -102,7 +101,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578941556,
+    "wof:lastmodified":1579301855,
     "wof:name":"WN60 (SFO-LAS)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

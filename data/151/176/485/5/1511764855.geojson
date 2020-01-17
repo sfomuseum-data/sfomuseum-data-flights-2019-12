@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123051508",
-        "swim:gufi":""
+        "swim:flight_ref":"123051508"
     },
     "wof:country":"US",
     "wof:created":1577635377,
@@ -100,7 +99,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578942738,
+    "wof:lastmodified":1579302045,
     "wof:name":"UA1815 (CLE-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

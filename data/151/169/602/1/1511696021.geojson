@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"122334758",
-        "swim:gufi":""
+        "swim:flight_ref":"122334758"
     },
     "wof:country":"US",
     "wof:created":1576857746,
@@ -94,7 +93,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578940187,
+    "wof:lastmodified":1579301641,
     "wof:name":"AS1957 (SAN-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

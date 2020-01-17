@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121255551",
-        "swim:gufi":""
+        "swim:flight_ref":"121255551"
     },
     "wof:country":"US",
     "wof:created":1575820939,
@@ -101,7 +100,7 @@
         1477930353,
         1377564285
     ],
-    "wof:lastmodified":1578939374,
+    "wof:lastmodified":1579301524,
     "wof:name":"AS964 (SFO-SAN)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

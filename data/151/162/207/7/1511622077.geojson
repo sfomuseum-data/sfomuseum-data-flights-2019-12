@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121814326",
-        "swim:gufi":""
+        "swim:flight_ref":"121814326"
     },
     "wof:country":"US",
     "wof:created":1576339365,
@@ -100,7 +99,7 @@
         1477930339,
         1377564285
     ],
-    "wof:lastmodified":1578941656,
+    "wof:lastmodified":1579301871,
     "wof:name":"AS266 (SFO-EWR)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

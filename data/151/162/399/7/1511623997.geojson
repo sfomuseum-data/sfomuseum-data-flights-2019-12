@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121920377",
-        "swim:gufi":""
+        "swim:flight_ref":"121920377"
     },
     "wof:country":"US",
     "wof:created":1576425717,
@@ -101,7 +100,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578941550,
+    "wof:lastmodified":1579301855,
     "wof:name":"UA1757 (LAS-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

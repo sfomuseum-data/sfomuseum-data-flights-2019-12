@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123027435",
-        "swim:gufi":""
+        "swim:flight_ref":"123027435"
     },
     "wof:country":"US",
     "wof:created":1577635383,
@@ -102,7 +101,7 @@
         1477930371,
         1159289871
     ],
-    "wof:lastmodified":1578942810,
+    "wof:lastmodified":1579302058,
     "wof:name":"AS371 (FLL-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

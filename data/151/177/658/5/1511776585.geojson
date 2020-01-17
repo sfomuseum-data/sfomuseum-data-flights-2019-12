@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123157005",
-        "swim:gufi":""
+        "swim:flight_ref":"123157005"
     },
     "wof:country":"US",
     "wof:created":1577721805,
@@ -101,7 +100,7 @@
         1477930315,
         1159289411
     ],
-    "wof:lastmodified":1578942357,
+    "wof:lastmodified":1579301987,
     "wof:name":"F92146 (SFO-CLT)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123300631",
-        "swim:gufi":""
+        "swim:flight_ref":"123300631"
     },
     "wof:country":"US",
     "wof:created":1577894583,
@@ -101,7 +100,7 @@
         1477930349,
         1159289871
     ],
-    "wof:lastmodified":1578942580,
+    "wof:lastmodified":1579302017,
     "wof:name":"AS321 (SEA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

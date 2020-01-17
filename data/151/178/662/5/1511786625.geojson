@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123282044",
-        "swim:gufi":""
+        "swim:flight_ref":"123282044"
     },
     "wof:country":"US",
     "wof:created":1577894572,
@@ -101,7 +100,7 @@
         1477930407,
         1159289407
     ],
-    "wof:lastmodified":1578942686,
+    "wof:lastmodified":1579302034,
     "wof:name":"UA1806 (SAN-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

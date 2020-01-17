@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"122282003",
-        "swim:gufi":""
+        "swim:flight_ref":"122282003"
     },
     "wof:country":"US",
     "wof:created":1576857734,
@@ -101,7 +100,7 @@
         1477930471,
         1159289993
     ],
-    "wof:lastmodified":1578940252,
+    "wof:lastmodified":1579301652,
     "wof:name":"CA985 (PEK-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

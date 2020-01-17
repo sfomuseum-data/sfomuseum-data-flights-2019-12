@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120732760",
-        "swim:gufi":""
+        "swim:flight_ref":"120732760"
     },
     "wof:country":"US",
     "wof:created":1575302522,
@@ -102,7 +101,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578941021,
+    "wof:lastmodified":1579301770,
     "wof:name":"UA365 (SFO-PHL)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

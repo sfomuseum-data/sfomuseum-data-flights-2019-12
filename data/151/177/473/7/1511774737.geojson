@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123108579",
-        "swim:gufi":""
+        "swim:flight_ref":"123108579"
     },
     "wof:country":"US",
     "wof:created":1577721791,
@@ -102,7 +101,7 @@
         1477881733,
         1159289871
     ],
-    "wof:lastmodified":1578942416,
+    "wof:lastmodified":1579301996,
     "wof:name":"WN5841 (SFO-AUS)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

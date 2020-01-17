@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123155894",
-        "swim:gufi":""
+        "swim:flight_ref":"123155894"
     },
     "wof:country":"US",
     "wof:created":1577721756,
@@ -100,7 +99,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578942365,
+    "wof:lastmodified":1579301988,
     "wof:name":"WN4465 (PHX-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

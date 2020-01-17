@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123198906",
-        "swim:gufi":""
+        "swim:flight_ref":"123198906"
     },
     "wof:country":"US",
     "wof:created":1577808197,
@@ -102,7 +101,7 @@
         1477930435,
         1159289407
     ],
-    "wof:lastmodified":1578942690,
+    "wof:lastmodified":1579302034,
     "wof:name":"UA1246 (SFO-MSY)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

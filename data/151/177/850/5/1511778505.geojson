@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123175011",
-        "swim:gufi":""
+        "swim:flight_ref":"123175011"
     },
     "wof:country":"US",
     "wof:created":1577808169,
@@ -101,7 +100,7 @@
         1477930477,
         1159289993
     ],
-    "wof:lastmodified":1578942353,
+    "wof:lastmodified":1579301986,
     "wof:name":"UA838 (NRT-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

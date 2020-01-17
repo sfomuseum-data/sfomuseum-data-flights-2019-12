@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121155590",
-        "swim:gufi":""
+        "swim:flight_ref":"121155590"
     },
     "wof:country":"US",
     "wof:created":1575734515,
@@ -102,7 +101,7 @@
         1477930345,
         1377564285
     ],
-    "wof:lastmodified":1578940435,
+    "wof:lastmodified":1579301682,
     "wof:name":"AS945 (LAX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123166384",
-        "swim:gufi":""
+        "swim:flight_ref":"123166384"
     },
     "wof:country":"US",
     "wof:created":1577808202,
@@ -102,7 +101,7 @@
         1477930357,
         1159292085
     ],
-    "wof:lastmodified":1578942554,
+    "wof:lastmodified":1579302014,
     "wof:name":"AS1962 (SFO-SAN)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

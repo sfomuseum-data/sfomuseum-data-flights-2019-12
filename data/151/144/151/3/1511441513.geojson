@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120773247",
-        "swim:gufi":""
+        "swim:flight_ref":"120773247"
     },
     "wof:country":"US",
     "wof:created":1575388938,
@@ -102,7 +101,7 @@
         1477930371,
         1377564285
     ],
-    "wof:lastmodified":1578941092,
+    "wof:lastmodified":1579301780,
     "wof:name":"AS191 (SFO-SEA)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

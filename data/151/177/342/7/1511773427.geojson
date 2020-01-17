@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123148928",
-        "swim:gufi":""
+        "swim:flight_ref":"123148928"
     },
     "wof:country":"US",
     "wof:created":1577721780,
@@ -100,7 +99,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578942452,
+    "wof:lastmodified":1579302000,
     "wof:name":"WN4033 (LAS-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

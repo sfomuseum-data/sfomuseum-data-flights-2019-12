@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121685541",
-        "swim:gufi":""
+        "swim:flight_ref":"121685541"
     },
     "wof:country":"US",
     "wof:created":1576253039,
@@ -102,7 +101,7 @@
         1477930345,
         1377564285
     ],
-    "wof:lastmodified":1578939960,
+    "wof:lastmodified":1579301607,
     "wof:name":"AS769 (JFK-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

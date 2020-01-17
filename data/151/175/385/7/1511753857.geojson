@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"122902218",
-        "swim:gufi":""
+        "swim:flight_ref":"122902218"
     },
     "wof:country":"US",
     "wof:created":1577462601,
@@ -101,7 +100,7 @@
         1477930369,
         1159289871
     ],
-    "wof:lastmodified":1578941355,
+    "wof:lastmodified":1579301823,
     "wof:name":"AS821 (SFO-OGG)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

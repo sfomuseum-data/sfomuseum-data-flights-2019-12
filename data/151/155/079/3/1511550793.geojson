@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120960597",
-        "swim:gufi":""
+        "swim:flight_ref":"120960597"
     },
     "wof:country":"US",
     "wof:created":1575561766,
@@ -101,7 +100,7 @@
         1477930345,
         1159292085
     ],
-    "wof:lastmodified":1578942046,
+    "wof:lastmodified":1579301937,
     "wof:name":"AS1940 (SFO-LAX)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

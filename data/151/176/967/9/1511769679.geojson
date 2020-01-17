@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123017012",
-        "swim:gufi":""
+        "swim:flight_ref":"123017012"
     },
     "wof:country":"US",
     "wof:created":1577635415,
@@ -102,7 +101,7 @@
         1477930471,
         1159289871
     ],
-    "wof:lastmodified":1578942805,
+    "wof:lastmodified":1579302056,
     "wof:name":"SY398 (SFO-MSP)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

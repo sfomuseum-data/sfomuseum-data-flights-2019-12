@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123288384",
-        "swim:gufi":""
+        "swim:flight_ref":"123288384"
     },
     "wof:country":"US",
     "wof:created":1577894580,
@@ -102,7 +101,7 @@
         1477930445,
         1159289945
     ],
-    "wof:lastmodified":1578942565,
+    "wof:lastmodified":1579302015,
     "wof:name":"UA222 (ORD-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

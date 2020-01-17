@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121330469",
-        "swim:gufi":""
+        "swim:flight_ref":"121330469"
     },
     "wof:country":"US",
     "wof:created":1575907325,
@@ -101,7 +100,7 @@
         1477930349,
         1377564285
     ],
-    "wof:lastmodified":1578939350,
+    "wof:lastmodified":1579301520,
     "wof:name":"AS345 (EWR-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

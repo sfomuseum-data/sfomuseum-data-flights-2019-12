@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121903098",
-        "swim:gufi":""
+        "swim:flight_ref":"121903098"
     },
     "wof:country":"US",
     "wof:created":1576425734,
@@ -102,7 +101,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578941667,
+    "wof:lastmodified":1579301873,
     "wof:name":"WN930 (LAX-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

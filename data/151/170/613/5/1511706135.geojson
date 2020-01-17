@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"122448265",
-        "swim:gufi":""
+        "swim:flight_ref":"122448265"
     },
     "wof:country":"US",
     "wof:created":1576944169,
@@ -100,7 +99,7 @@
         1477930439,
         1159289985
     ],
-    "wof:lastmodified":1578942257,
+    "wof:lastmodified":1579301971,
     "wof:name":"UA698 (SFO-ORD)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

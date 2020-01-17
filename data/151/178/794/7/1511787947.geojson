@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123249214",
-        "swim:gufi":""
+        "swim:flight_ref":"123249214"
     },
     "wof:country":"US",
     "wof:created":1577894580,
@@ -101,7 +100,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578942636,
+    "wof:lastmodified":1579302027,
     "wof:name":"UA1746 (LIH-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121030049",
-        "swim:gufi":""
+        "swim:flight_ref":"121030049"
     },
     "wof:country":"US",
     "wof:created":1575561755,
@@ -100,7 +99,7 @@
         1477930409,
         1159289407
     ],
-    "wof:lastmodified":1578941489,
+    "wof:lastmodified":1579301844,
     "wof:name":"UA809 (SFO-SNA)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

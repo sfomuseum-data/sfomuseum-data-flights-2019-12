@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121443389",
-        "swim:gufi":""
+        "swim:flight_ref":"121443389"
     },
     "wof:country":"US",
     "wof:created":1575993767,
@@ -101,7 +100,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578939570,
+    "wof:lastmodified":1579301549,
     "wof:name":"WN2483 (SFO-DEN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123008581",
-        "swim:gufi":""
+        "swim:flight_ref":"123008581"
     },
     "wof:country":"US",
     "wof:created":1577635374,
@@ -97,7 +96,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1578942746,
+    "wof:lastmodified":1579302046,
     "wof:name":"UA756 (EWR-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

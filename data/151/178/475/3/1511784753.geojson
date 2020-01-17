@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123193268",
-        "swim:gufi":""
+        "swim:flight_ref":"123193268"
     },
     "wof:country":"US",
     "wof:created":1577808213,
@@ -102,7 +101,7 @@
         1477930349,
         1377564285
     ],
-    "wof:lastmodified":1578942664,
+    "wof:lastmodified":1579302031,
     "wof:name":"AS354 (SFO-BOS)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

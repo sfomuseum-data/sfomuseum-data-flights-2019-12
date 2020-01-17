@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123030452",
-        "swim:gufi":""
+        "swim:flight_ref":"123030452"
     },
     "wof:country":"US",
     "wof:created":1577635396,
@@ -102,7 +101,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578942778,
+    "wof:lastmodified":1579302051,
     "wof:name":"WN5876 (SFO-LAS)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

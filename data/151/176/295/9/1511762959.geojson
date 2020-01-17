@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123068336",
-        "swim:gufi":""
+        "swim:flight_ref":"123068336"
     },
     "wof:country":"US",
     "wof:created":1577635363,
@@ -100,7 +99,7 @@
         1477930435,
         1159289939
     ],
-    "wof:lastmodified":1578942761,
+    "wof:lastmodified":1579302049,
     "wof:name":"UA1885 (EWR-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

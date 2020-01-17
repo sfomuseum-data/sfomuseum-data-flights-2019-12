@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123208766",
-        "swim:gufi":""
+        "swim:flight_ref":"123208766"
     },
     "wof:country":"US",
     "wof:created":1577808195,
@@ -100,7 +99,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1578942643,
+    "wof:lastmodified":1579302028,
     "wof:name":"UA624 (SFO-ORD)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

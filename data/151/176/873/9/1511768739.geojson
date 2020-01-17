@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123068253",
-        "swim:gufi":""
+        "swim:flight_ref":"123068253"
     },
     "wof:country":"US",
     "wof:created":1577635408,
@@ -101,7 +100,7 @@
         1477930349,
         1159292085
     ],
-    "wof:lastmodified":1578942744,
+    "wof:lastmodified":1579302046,
     "wof:name":"AS1327 (SFO-PDX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121694259",
-        "swim:gufi":""
+        "swim:flight_ref":"121694259"
     },
     "wof:country":"US",
     "wof:created":1576253073,
@@ -102,7 +101,7 @@
         1477930343,
         1159289871
     ],
-    "wof:lastmodified":1578939728,
+    "wof:lastmodified":1579301568,
     "wof:name":"AS249 (SFO-PDX)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

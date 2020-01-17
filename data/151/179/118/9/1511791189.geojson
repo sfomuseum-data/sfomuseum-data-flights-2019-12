@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123288195",
-        "swim:gufi":""
+        "swim:flight_ref":"123288195"
     },
     "wof:country":"US",
     "wof:created":1577894602,
@@ -100,7 +99,7 @@
         1477881735,
         1159289871
     ],
-    "wof:lastmodified":1578942527,
+    "wof:lastmodified":1579302010,
     "wof:name":"WN3577 (SFO-FLL)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

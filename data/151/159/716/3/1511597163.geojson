@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121517487",
-        "swim:gufi":""
+        "swim:flight_ref":"121517487"
     },
     "wof:country":"US",
     "wof:created":1576080276,
@@ -98,7 +97,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1578939676,
+    "wof:lastmodified":1579301563,
     "wof:name":"AS1890 (SFO-LAX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

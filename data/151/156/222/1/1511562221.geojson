@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121200440",
-        "swim:gufi":""
+        "swim:flight_ref":"121200440"
     },
     "wof:country":"US",
     "wof:created":1575734507,
@@ -101,7 +100,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578940403,
+    "wof:lastmodified":1579301678,
     "wof:name":"UA2093 (PDX-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

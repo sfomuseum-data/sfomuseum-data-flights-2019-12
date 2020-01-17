@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"122810192",
-        "swim:gufi":""
+        "swim:flight_ref":"122810192"
     },
     "wof:country":"US",
     "wof:created":1577376201,
@@ -102,7 +101,7 @@
         1477930339,
         1377564285
     ],
-    "wof:lastmodified":1578940593,
+    "wof:lastmodified":1579301709,
     "wof:name":"AS365 (SFO-PDX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

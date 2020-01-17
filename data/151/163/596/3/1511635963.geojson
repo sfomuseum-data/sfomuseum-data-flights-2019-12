@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121974111",
-        "swim:gufi":""
+        "swim:flight_ref":"121974111"
     },
     "wof:country":"US",
     "wof:created":1576512155,
@@ -102,7 +101,7 @@
         1477930339,
         1159289871
     ],
-    "wof:lastmodified":1578941975,
+    "wof:lastmodified":1579301926,
     "wof:name":"AS747 (SFO-SEA)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

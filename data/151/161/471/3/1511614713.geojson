@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121713256",
-        "swim:gufi":""
+        "swim:flight_ref":"121713256"
     },
     "wof:country":"US",
     "wof:created":1576253089,
@@ -102,7 +101,7 @@
         1477930477,
         1159289989
     ],
-    "wof:lastmodified":1578939719,
+    "wof:lastmodified":1579301566,
     "wof:name":"AI174 (SFO-DEL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

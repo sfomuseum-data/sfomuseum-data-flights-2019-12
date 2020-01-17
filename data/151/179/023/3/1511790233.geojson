@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123247503",
-        "swim:gufi":""
+        "swim:flight_ref":"123247503"
     },
     "wof:country":"US",
     "wof:created":1577894596,
@@ -94,7 +93,7 @@
         1159285413,
         1477930457
     ],
-    "wof:lastmodified":1578942512,
+    "wof:lastmodified":1579302008,
     "wof:name":"UA214 (SFO-ORD)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121539389",
-        "swim:gufi":""
+        "swim:flight_ref":"121539389"
     },
     "wof:country":"US",
     "wof:created":1576080264,
@@ -101,7 +100,7 @@
         1477930371,
         1159292085
     ],
-    "wof:lastmodified":1578939592,
+    "wof:lastmodified":1579301552,
     "wof:name":"AS1270 (SFO-PVR)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

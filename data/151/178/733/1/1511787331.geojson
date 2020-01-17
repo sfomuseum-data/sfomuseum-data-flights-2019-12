@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123266139",
-        "swim:gufi":""
+        "swim:flight_ref":"123266139"
     },
     "wof:country":"US",
     "wof:created":1577894576,
@@ -102,7 +101,7 @@
         1477930369,
         1159292085
     ],
-    "wof:lastmodified":1578942634,
+    "wof:lastmodified":1579302026,
     "wof:name":"AS1951 (SAN-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

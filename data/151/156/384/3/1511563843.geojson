@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121233251",
-        "swim:gufi":""
+        "swim:flight_ref":"121233251"
     },
     "wof:country":"US",
     "wof:created":1575734518,
@@ -101,7 +100,7 @@
         1477930471,
         1159289985
     ],
-    "wof:lastmodified":1578940357,
+    "wof:lastmodified":1579301670,
     "wof:name":"UA955 (TLV-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

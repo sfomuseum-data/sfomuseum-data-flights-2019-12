@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120850400",
-        "swim:gufi":""
+        "swim:flight_ref":"120850400"
     },
     "wof:country":"US",
     "wof:created":1575388939,
@@ -101,7 +100,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578941091,
+    "wof:lastmodified":1579301780,
     "wof:name":"WN1422 (SFO-LAS)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

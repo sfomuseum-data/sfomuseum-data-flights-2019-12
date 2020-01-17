@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121359711",
-        "swim:gufi":""
+        "swim:flight_ref":"121359711"
     },
     "wof:country":"US",
     "wof:created":1575907316,
@@ -101,7 +100,7 @@
         1477930345,
         1159289871
     ],
-    "wof:lastmodified":1578939400,
+    "wof:lastmodified":1579301527,
     "wof:name":"AS627 (JFK-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

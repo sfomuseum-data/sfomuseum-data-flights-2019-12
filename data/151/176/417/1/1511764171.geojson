@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123073378",
-        "swim:gufi":""
+        "swim:flight_ref":"123073378"
     },
     "wof:country":"US",
     "wof:created":1577635373,
@@ -100,7 +99,7 @@
         1477930409,
         1159292085
     ],
-    "wof:lastmodified":1578942818,
+    "wof:lastmodified":1579302059,
     "wof:name":"UA420 (DEN-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121212108",
-        "swim:gufi":""
+        "swim:flight_ref":"121212108"
     },
     "wof:country":"US",
     "wof:created":1575734534,
@@ -94,7 +93,7 @@
         1159285413,
         1477930433
     ],
-    "wof:lastmodified":1578940367,
+    "wof:lastmodified":1579301673,
     "wof:name":"UA500 (SFO-IAD)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

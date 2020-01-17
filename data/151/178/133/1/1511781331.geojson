@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123198191",
-        "swim:gufi":""
+        "swim:flight_ref":"123198191"
     },
     "wof:country":"US",
     "wof:created":1577808190,
@@ -102,7 +101,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578942566,
+    "wof:lastmodified":1579302015,
     "wof:name":"UA2068 (SFO-LAS)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

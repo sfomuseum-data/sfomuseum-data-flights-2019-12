@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123200121",
-        "swim:gufi":""
+        "swim:flight_ref":"123200121"
     },
     "wof:country":"US",
     "wof:created":1577808193,
@@ -101,7 +100,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578942712,
+    "wof:lastmodified":1579302040,
     "wof:name":"WN1291 (SFO-SAN)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

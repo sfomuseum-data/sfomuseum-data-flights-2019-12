@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123218385",
-        "swim:gufi":""
+        "swim:flight_ref":"123218385"
     },
     "wof:country":"US",
     "wof:created":1577808193,
@@ -102,7 +101,7 @@
         1477930371,
         1159289871
     ],
-    "wof:lastmodified":1578942700,
+    "wof:lastmodified":1579302037,
     "wof:name":"AS726 (SFO-LAS)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

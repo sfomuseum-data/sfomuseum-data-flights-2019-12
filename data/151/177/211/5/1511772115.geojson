@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123142387",
-        "swim:gufi":""
+        "swim:flight_ref":"123142387"
     },
     "wof:country":"US",
     "wof:created":1577721770,
@@ -100,7 +99,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578942332,
+    "wof:lastmodified":1579301983,
     "wof:name":"WN2962 (DAL-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

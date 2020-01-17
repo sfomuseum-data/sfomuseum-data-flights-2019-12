@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121431087",
-        "swim:gufi":""
+        "swim:flight_ref":"121431087"
     },
     "wof:country":"US",
     "wof:created":1575993727,
@@ -98,7 +97,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578939978,
+    "wof:lastmodified":1579301612,
     "wof:name":"AS77 (IAD-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

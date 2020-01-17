@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123213896",
-        "swim:gufi":""
+        "swim:flight_ref":"123213896"
     },
     "wof:country":"US",
     "wof:created":1577808185,
@@ -102,7 +101,7 @@
         1477930439,
         1377564289
     ],
-    "wof:lastmodified":1578942694,
+    "wof:lastmodified":1579302036,
     "wof:name":"UA583 (EWR-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

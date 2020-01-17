@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123212763",
-        "swim:gufi":""
+        "swim:flight_ref":"123212763"
     },
     "wof:country":"US",
     "wof:created":1577808177,
@@ -102,7 +101,7 @@
         1477881735,
         1159289871
     ],
-    "wof:lastmodified":1578942396,
+    "wof:lastmodified":1579301993,
     "wof:name":"WN2571 (BUR-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

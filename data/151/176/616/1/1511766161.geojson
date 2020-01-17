@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123064974",
-        "swim:gufi":""
+        "swim:flight_ref":"123064974"
     },
     "wof:country":"US",
     "wof:created":1577635387,
@@ -102,7 +101,7 @@
         1477930371,
         1377564285
     ],
-    "wof:lastmodified":1578942755,
+    "wof:lastmodified":1579302048,
     "wof:name":"AS743 (SFO-HNL)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

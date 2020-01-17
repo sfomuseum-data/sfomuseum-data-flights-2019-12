@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121235451",
-        "swim:gufi":""
+        "swim:flight_ref":"121235451"
     },
     "wof:country":"US",
     "wof:created":1575734496,
@@ -99,7 +98,7 @@
         1477930315,
         1377564285
     ],
-    "wof:lastmodified":1578940412,
+    "wof:lastmodified":1579301680,
     "wof:name":"AS909 (PVR-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

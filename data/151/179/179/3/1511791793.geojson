@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123286715",
-        "swim:gufi":""
+        "swim:flight_ref":"123286715"
     },
     "wof:country":"US",
     "wof:created":1577894605,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578942551,
+    "wof:lastmodified":1579302013,
     "wof:name":"WN2352 (SFO-SEA)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

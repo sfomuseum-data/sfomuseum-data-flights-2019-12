@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121381268",
-        "swim:gufi":""
+        "swim:flight_ref":"121381268"
     },
     "wof:country":"US",
     "wof:created":1575907349,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578940129,
+    "wof:lastmodified":1579301632,
     "wof:name":"WN940 (SFO-SAN)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

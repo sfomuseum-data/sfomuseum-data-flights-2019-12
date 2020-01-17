@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123156693",
-        "swim:gufi":""
+        "swim:flight_ref":"123156693"
     },
     "wof:country":"US",
     "wof:created":1577808182,
@@ -101,7 +100,7 @@
         1477930485,
         1159289407
     ],
-    "wof:lastmodified":1578942602,
+    "wof:lastmodified":1579302021,
     "wof:name":"UA1568 (PVR-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

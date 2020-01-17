@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"120887836",
-        "swim:gufi":""
+        "swim:flight_ref":"120887836"
     },
     "wof:country":"US",
     "wof:created":1575475286,
@@ -101,7 +100,7 @@
         1477930461,
         1159293215
     ],
-    "wof:lastmodified":1578940854,
+    "wof:lastmodified":1579301747,
     "wof:name":"AC737 (YYZ-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

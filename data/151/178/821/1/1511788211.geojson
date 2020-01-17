@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123275044",
-        "swim:gufi":""
+        "swim:flight_ref":"123275044"
     },
     "wof:country":"US",
     "wof:created":1577894582,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578942588,
+    "wof:lastmodified":1579302018,
     "wof:name":"WN6726 (LAX-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

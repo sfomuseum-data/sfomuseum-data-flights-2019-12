@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121398871",
-        "swim:gufi":""
+        "swim:flight_ref":"121398871"
     },
     "wof:country":"US",
     "wof:created":1575993753,
@@ -99,7 +98,7 @@
         1477930355,
         1159292085
     ],
-    "wof:lastmodified":1578940087,
+    "wof:lastmodified":1579301628,
     "wof:name":"AS1928 (SFO-LAX)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

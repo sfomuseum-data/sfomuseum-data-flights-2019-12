@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123213153",
-        "swim:gufi":""
+        "swim:flight_ref":"123213153"
     },
     "wof:country":"US",
     "wof:created":1577808170,
@@ -101,7 +100,7 @@
         1477930339,
         1159289407
     ],
-    "wof:lastmodified":1578942428,
+    "wof:lastmodified":1579301997,
     "wof:name":"AS1768 (SEA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

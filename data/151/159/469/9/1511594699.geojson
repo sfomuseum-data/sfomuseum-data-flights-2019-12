@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"121539167",
-        "swim:gufi":""
+        "swim:flight_ref":"121539167"
     },
     "wof:country":"US",
     "wof:created":1576080258,
@@ -102,7 +101,7 @@
         1477930339,
         1159289871
     ],
-    "wof:lastmodified":1578939636,
+    "wof:lastmodified":1579301559,
     "wof:name":"AS430 (PDX-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",
