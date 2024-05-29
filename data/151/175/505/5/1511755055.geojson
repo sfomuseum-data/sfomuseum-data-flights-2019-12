@@ -92,10 +92,13 @@
       1477930413,
       1159285413
     ],
-    "wof:lastmodified": 1651274124,
+    "wof:lastmodified": 1717007931,
     "wof:name": "NZ9385 (PHX-SFO)",
     "wof:parent_id": 1477930413,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

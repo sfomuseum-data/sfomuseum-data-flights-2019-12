@@ -92,10 +92,13 @@
       1477930283,
       1159284127
     ],
-    "wof:lastmodified": 1651274107,
+    "wof:lastmodified": 1717007928,
     "wof:name": "AA8932 (SFO-HKG)",
     "wof:parent_id": 1477930283,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

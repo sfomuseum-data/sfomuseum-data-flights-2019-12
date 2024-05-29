@@ -88,10 +88,13 @@
       1159285413,
       1477930451
     ],
-    "wof:lastmodified": 1651274110,
+    "wof:lastmodified": 1717007930,
     "wof:name": "UA726 (SFO-EWR)",
     "wof:parent_id": 1477930451,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],

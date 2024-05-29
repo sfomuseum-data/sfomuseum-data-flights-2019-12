@@ -92,10 +92,13 @@
       1477930343,
       1159283813
     ],
-    "wof:lastmodified": 1651274113,
+    "wof:lastmodified": 1717007932,
     "wof:name": "QF3671 (BOS-SFO)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-12",
     "wof:superseded_by": [],
     "wof:supersedes": [],
